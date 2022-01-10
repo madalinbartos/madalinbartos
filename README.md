@@ -1,4 +1,4 @@
-- 👋 Hello there! My name is Madalin. I am a full-stack developer with over 4 years of professional experience in the software development field.
+- 👋 Hello there! My name is Madalin. I am a full-stack developer with over 4 years of professional experience in the software development field
 - 👀 I’m interested in cool technologies such as: Node.js, TypeScript, JavaScript, React.js, Next.js, Vue.js, PostgreSQL, MongoDB, AWS
 - 🌱 I’m currently learning Nest.js
 - 💞️ I’m looking to collaborate on awesome projects with enthusiastic people
