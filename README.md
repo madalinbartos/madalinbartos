@@ -1,10 +1,18 @@
-- 👋 Hello there! My name is Madalin. I am a Full Stack Engineer with over 5 years of professional experience in the software development field
-- 👀 I’m interested in cool technologies such as: Node.js, React.js, JavaScript, TypeScript, Next.js, Vue.js, PostgreSQL, MongoDB, AWS
-- 🌱 I’m currently learning Nest.js
-- 💞️ I’m looking to collaborate on awesome projects with passionate people
-- 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/madalin-bartos/
+👋 Hey there, welcome to my GitHub space! I'm Madalin, a Senior Full Stack Engineer with 6 years of experience in web development.
 
-<!---
-madalinbartos/madalinbartos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔥 What ignites my passion? Collaborating on great projects with fellow tech enthusiasts, because I'm genuinely passionate about the world of coding.
+
+🚀 Here's what I bring to the table:
+- For crafting user-friendly interfaces, I rely on React.js.
+- When it comes to building robust backends, NestJS and Node.js are my go-to tools.
+- TypeScript and JavaScript are the languages I use to write my code.
+
+🔍 But here's the truth: I'm open to exploring any technology. If it involves coding, count me in! From .NET to Java and everything in between, I'm up for the challenge.
+
+🤝 Let's Collaborate:
+If you share the same passion for tech and innovation, I'm eager to hear your ideas! We can brainstorm, dive into code, and create amazing web solutions together.
+
+📬 Get in Touch:
+Whether you want to discuss a project, chat about the latest tech buzz, or just connect over shared coding experiences, don't hesitate to reach out. New opportunities and exciting coding ventures are always on my radar.
+
+🚀 Thanks for dropping by my GitHub. Let's embark on a coding adventure together – one line of code at a time! 
