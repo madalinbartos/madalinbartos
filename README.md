@@ -1,4 +1,4 @@
-👋 Hey there, welcome to my GitHub space! I'm Madalin, a Senior Full Stack Engineer with 6 years of experience in web development.
+👋 Hey there, welcome to my GitHub space! I'm Madalin, a Senior Full Stack Engineer with over 6 years of experience in web development.
 
 🔥 What ignites my passion? Collaborating on great projects with fellow tech enthusiasts, because I'm genuinely passionate about the world of coding.
 
